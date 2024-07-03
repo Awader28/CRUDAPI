@@ -1,4 +1,3 @@
-```markdown
 # Avion API Documentation
 
 ## Base URL
